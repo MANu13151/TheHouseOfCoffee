@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#1C140F" />
+  <!-- Coffee bean / cup with botanical twig motif -->
+  <path d="M30 42 h36 c0 16 -10 24 -24 24 c-12 0 -12 -8 -12 -24 z" fill="#C97A2B" />
+  <path d="M66 46 h7 a5 5 0 0 1 0 10 h-7" stroke="#F7F3EB" stroke-width="3" fill="none" stroke-linecap="round" />
+  <path d="M42 22 Q46 32 40 37 M50 20 Q54 30 48 37" stroke="#5F7A52" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <circle cx="50" cy="50" r="45" stroke="#C97A2B" stroke-width="1.5" stroke-dasharray="3 3" fill="none" opacity="0.6" />
+</svg>
